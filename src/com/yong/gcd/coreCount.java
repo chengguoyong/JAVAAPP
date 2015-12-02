@@ -4,7 +4,7 @@ public class coreCount {
 	public int getGcd(int i1,int i2 ){
 		int i3 = 0;
 		do {
-			i3 = i1 % i2;
+			i3 = i1 % i2 ;
 			i1 = i2;
 			i2 = i3;
 		}while (i2 != 0);
