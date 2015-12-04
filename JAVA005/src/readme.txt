@@ -1,4 +1,20 @@
-计算最大公约数  	getGcd
-计算最小公倍数  	getLcm
-计算约分       	getFraction
-计算无理数e 		getE
+CLASS	coreCount
+	计算最大公约数  	getGcd
+	计算最小公倍数  	getLcm
+	计算约分       	getFraction
+	计算无理数e 		getE
+CLASS	Circlearea
+	计算圆的面积		Circlearea
+CLASS	Circle
+	定位圆的中心点和半径	Circle
+	计算周长				getCircumference
+	计算直径				getDiameter
+	计算面积				getArea
+	计算一个数的平方		getSquare
+	计算两个点之间的距离	getDistance
+	判断点是否在圆内		isInner
+CLASS	Point
+	定位点坐标			Point
+	打印点坐标			toString
+	获取X坐标				getX
+	获取Y坐标				getY
