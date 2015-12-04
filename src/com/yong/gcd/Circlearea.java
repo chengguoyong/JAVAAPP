@@ -1,4 +1,4 @@
-package com.yong.circlebox;
+package com.yong.gcd;
 
 import javax.swing.JOptionPane;
 public class Circlearea {

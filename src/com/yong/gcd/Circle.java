@@ -1,6 +1,6 @@
-package com.yong.circle;
+package com.yong.gcd;
 
-import com.yong.circle.Point;
+import com.yong.gcd.Point;
 
 public class Circle {
 	Point point1;

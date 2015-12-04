@@ -1,7 +1,7 @@
-package com.yong.circle;
+package com.yong.gcd;
 
-import com.yong.circle.Point;
-import com.yong.circle.Circle;
+import com.yong.gcd.Point;
+import com.yong.gcd.Circle;
 import javax.swing.JOptionPane;
 public class TestMain03 {
 	public static void main(String[] args){

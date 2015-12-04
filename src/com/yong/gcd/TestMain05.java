@@ -3,7 +3,7 @@ package com.yong.gcd;
 import javax.swing.JOptionPane;
 import com.yong.gcd.coreCount;
 
-public class TestMain {
+public class TestMain05 {
 	public static void main(String[] args){
 		Object obj1[] = {"GCD","LCM","Fraction","E","All"};
 		String st = (String) JOptionPane.showInputDialog(null, "Please select the Result", "Select",JOptionPane.PLAIN_MESSAGE, null , obj1, "All");

@@ -1,4 +1,4 @@
-package com.yong.circle;
+package com.yong.gcd;
 
 public class Point {
 	double x,y;
